@@ -12,7 +12,6 @@ Dieses Repository enthält eine **künstliche Intelligenz (KI)** für das Spiel 
 
 ```
 ├── ex4.ipynb        # Jupyter Notebook mit der Minimax-Implementierung für Connect Four
-├── namen.txt        # Namensliste der beteiligten Personen
 ├── README.md        # Projektdokumentation
 ```
 
